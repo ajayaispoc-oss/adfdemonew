@@ -1,0 +1,15 @@
+{
+	"name": "azuredfex",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3d5e262c-b0e1-4d6a-95b5-d64d1e6188a6",
+		"tenantId": "c64cce36-2387-46a0-9a0e-17dac2f31316"
+	}
+}
